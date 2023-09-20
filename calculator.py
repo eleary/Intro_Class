@@ -4,5 +4,3 @@ weight = 6*24
 iq = 100/2
 print "Age: %d, Height: %d, Weight: %d, IQ: %d" %(age, height, weight, iq)
 
-
-elizbethlleary@gmail.com
